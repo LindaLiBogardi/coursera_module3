@@ -1,0 +1,24 @@
+.menu {
+    background-color:yellow;
+}
+
+.navbar-header button  {
+    border: 1px solid #61122f;
+    background-color: grey;
+}
+.navbar-brand {
+    color:black;
+}
+.icon-bar {
+    text-font: 3px solid #61122f;
+}
+.food-category {
+    background-color:grey;
+    padding:10px;
+    border:10px;
+ 
+}
+.description {
+    padding: 5px;
+}
+
